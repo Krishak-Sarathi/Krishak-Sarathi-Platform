@@ -2,12 +2,6 @@
 
 Krishak Sarathi is a React-based smart agriculture platform designed to assist farmers with AI-powered voice interactions. The application provides crop recommendations, weather forecasts, mandi (market) prices, government scheme information, and multilingual support through a simple and intuitive user interface.
 
-Krishak Sarathi
-AI-Powered Voice Crop Advisor for Farmers
-
-Copyright (c) 2026 Krishak Sarthi Team.
-All Rights Reserved.
-
 This software, including its source code, design, user interface, documentation,
 graphics, AI workflows, database structure, and all related materials, is the
 exclusive intellectual property of Sushil Kumar and Team.
@@ -31,7 +25,7 @@ review purposes. Access to the source code does not grant ownership or any
 license to copy, reuse, or redistribute the project.
 
 Development Team:
-• Sushil Kumar – Frontend Development & Tech Lead
+• Sushil Kumar – Frontend Development, Tech Lead, Tester
 • Ankush Kumar – Presentation, Documentation, Content, Planning and Project Lead
 • Bijanshu Yadav – AI/ML & Backend Development
 
@@ -55,3 +49,9 @@ Bijanshu Yadav
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
+
+Krishak Sarathi
+AI-Powered Voice Crop Advisor for Farmers
+
+Copyright (c) 2026 Krishak Sarathi Team.
+All Rights Reserved.
