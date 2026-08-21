@@ -24,10 +24,11 @@ This project is provided only to authorized collaborators for development and
 review purposes. Access to the source code does not grant ownership or any
 license to copy, reuse, or redistribute the project.
 
-Development Team:
-• Sushil Kumar – Frontend Development, Tech Lead, Tester
-• Ankush Kumar – Presentation, Documentation, Content, Planning and Project Lead
-• Bijanshu Yadav – AI/ML & Backend Development
+## 👥 Development Team
+
+- **Sushil Kumar** — Frontend Development, Tech Lead & Tester
+- **Ankush Kumar** — Presentation, Documentation, Content, Planning & Project Lead
+- **Bijanshu Yadav** — AI/ML & Backend Development
 
 For permissions or licensing inquiries, contact the Project Owner directly.
 
