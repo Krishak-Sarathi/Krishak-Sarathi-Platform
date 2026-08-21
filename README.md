@@ -34,11 +34,6 @@ For permissions or licensing inquiries, contact the Project Owner directly.
 
 ALL RIGHTS RESERVED.
 
-Team Name:
-Ankush Kumar
-Sushil Kumar
-Bijanshu Yadav
-
 <div align="center">
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
