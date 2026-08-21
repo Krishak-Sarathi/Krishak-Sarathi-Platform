@@ -111,7 +111,7 @@ const VoiceAdvisor = () => {
     } finally {
       setIsProcessing(false);
     }
-  }, [speechLang, speak]);
+  }, [speechLang, speak, t]);
 
   // Process search query passed from header search bar
   useEffect(() => {

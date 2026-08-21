@@ -34,7 +34,6 @@ import Privacy from './pages/Privacy/Privacy';
 import Team from './pages/Team/Team';
 import FarmerSurvey from './pages/FarmerSurvey/FarmerSurvey';
 import Pipelines from './pages/Pipelines/Pipelines';
-import Docs from './pages/Docs/Documents';
 import Documents from './pages/Docs/Documents';
 
 const PageWrapper = ({ children }) => {
