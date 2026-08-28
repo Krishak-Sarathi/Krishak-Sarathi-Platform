@@ -65,5 +65,5 @@ app.use(errorHandler);
 
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
-  console.log(`🚀 Krishak Sarathi backend successfuly running on http://localhost:${PORT}`);
+  console.log(`🚀 Krishak Sarathi backend successfuly running on port${PORT}`);
 });
