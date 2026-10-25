@@ -27,7 +27,7 @@ license to copy, reuse, or redistribute the project.
 ## 👥 Development Team
 
 - **Sushil Kumar** — Frontend Development, Tech Lead & Tester
-- **Ankush Kumar** — Presentation, Documentation, Content, Planning & Project Lead
+- **Ankush Kumar** — Technical Development Support, Presentation, Documentation, Content, Planning & Project Lead
 - **Bijanshu Yadav** — AI/ML & Backend Development
 
 For permissions or licensing inquiries, contact the Project Owner directly.
